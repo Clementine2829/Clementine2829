@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Clementine2829
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently finishing my IT degree (2021) at University of Johannesburg (UJ in South Africa)
+- 🌱 I studied computer science and informatics at University of Johannesburg (UJ in South Africa) 
+- 🌱 I’m currently doing my Honors in Info Tech (202) at University of Johannesburg (UJ in South Africa)
 - 💞️ I’m looking to collaborate on ...
 - 📫 find me on Twitter @clementine4802829 @linkedIn Clementine Mamogale
 
