@@ -1,14 +1,33 @@
-- 👋 Hi, I’m Clementine Mamogale
-- 👀 I’m interested in computer programming, web development, and cyber security
-- 🌱 I studied BSc in Computer Science and Informatics (2021) at the University of Johannesburg (UJ) in South Africa 
-- 🌱 I also completed BSc Honors in Info Tech (2022) at the University of Johannesburg (UJ) in South Africa
-- 🌱 Now I also completed MSc in Computer Science (2024) at the University of Johannesburg (UJ) in South Africa
-- 🌱 I am yet to study PhD in Computer Science at the University of Johannesburg (UJ) in South Africa
-- 💞️ I’m looking to collaborate on ...
-- 📫 find me @ linkedIn - not avaible
+## 👋 Hi, I’m Clementine Mamogale
 
+🎓 PhD Candidate in Computer Science University of Johannesburg (UJ), South Africa  
+💻 Software Developer | Full-Stack & Mobile  
+☁️ AWS Certified Solutions Architect  
 
-<!---
-Clementine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👀 About Me
+I’m a software developer with a strong academic background and hands-on experience in building **scalable, secure, and cloud-ready applications**. I enjoy working across web, mobile, and backend systems, delivering clean, maintainable, and practical solutions.
+
+---
+
+## 🌱 Education
+- **PhD in Computer Science** *(in progress)* — University of Johannesburg  
+- **MSc in Computer Science** University of Johannesburg  
+- **BSc Honours in Information Technology** University of Johannesburg  
+- **BSc in Computer Science & Informatics** University of Johannesburg  
+
+---
+
+## 🛠️ Tech Stack
+- **Mobile:** Kotlin, Java, React Native, Expo  
+- **Web & Backend:** JavaScript, C#, Java, Angular, React, Node.js  
+- **Cloud:** AWS  
+
+---
+
+## 💞️ Interests
+- Full-stack and mobile development  
+- Cloud computing and scalable systems  
+- Research-driven and real-world software solutions  
+
